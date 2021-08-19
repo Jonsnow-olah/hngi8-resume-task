@@ -1,0 +1,7 @@
+<?php
+//PROGRAM TO DISPLAY MY NAME
+
+echo "MY NAME IS OLAH ISRAEL";
+
+
+?>
